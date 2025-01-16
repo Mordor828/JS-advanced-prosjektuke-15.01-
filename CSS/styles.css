@@ -1,0 +1,18 @@
+body {
+  background-image: url(/360_F_600549879_YsZ1Mht2ZIS3IN3AiSUxEW8MIZZG321d.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+  height: 100%;
+}
+
+#myBox {
+  background-color: rgb(72, 72, 77);
+  background-image: url(/Eye-of-Sauron.jpeg);
+  width: 120px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
